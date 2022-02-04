@@ -1,2 +1,2 @@
-# jgsu-spring-petclinic
+#spring-petclinic
 petclinicRepo
